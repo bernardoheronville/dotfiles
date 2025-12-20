@@ -65,6 +65,7 @@
 
     "custom/power": {
         "format": "",
-        "on-click": "nwg-bar"
+        "on-click": "wlogout",
+        "tooltip": false
     }
 }
